@@ -116,11 +116,11 @@ async function environmentSetup() {
         const maxTransactionFee = new Hbar(20);
 
         // Generate metadata links using your base CID
-        const baseCID = "bafybeigstaoh2yqcmj4dy3hzqycvcu45ooz2snibsfvwbqndmthzri2dsm";
+        const baseCID = "bafybeieqkgi7msf5oycamf5c4mh4uebis5f3at76lhsgnypxgippx76eu4";
         const metadataList = [];
 
         // Change this number to mint more NFTs
-        const numberOfNFTs = 4;
+        const numberOfNFTs = 6;
 
         for (let i = 1; i <= numberOfNFTs; i++) {
             const metadata = Buffer.from(`ipfs://${baseCID}/NFT_${i}.png`);
