@@ -1,0 +1,9 @@
+{
+  "name": "NFT_collection (6)",
+  "description": "A legendary NFT hero from the Hedera realm.",
+  "image": "ipfs://bafybeieqkgi7msf5oycamf5c4mh4uebis5f3at76lhsgnypxgippx76eu4/NFT_collection (6).png",
+  "attributes": [
+    { "trait_type": "Power", "value": "Fire" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
