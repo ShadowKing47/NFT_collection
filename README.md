@@ -16,3 +16,5 @@ npm init -y
 2.Install haderasdk
 
 3.Update .env file according to the instructions provided in the .enc file
+
+4.Open powershell and run NFT_collection.js 
